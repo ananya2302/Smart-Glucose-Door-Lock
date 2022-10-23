@@ -3,4 +3,4 @@ This is a IOT based smart glucose door handle using CGM technology used to contr
 
 LINK TO WORD DOCUMENTATION: https://docs.google.com/document/d/1cszltPjWCfpeip9o_oxBTXOYQ0uuDMq_/edit?usp=sharing&ouid=101116404617143038577&rtpof=true&sd=true
 
-LINK TO POWERPOINT PRESENTATION: https://docs.google.com/presentation/d/1TCfofngUFtmrn7zLHq6ydgkxMVJGzZ4h/edit?usp=sharing&ouid=101116404617143038577&rtpof=true&sd=true
+LINK TO POWERPOINT PRESENTATION: https://docs.google.com/presentation/d/1qs4C3PRQBA5DJiMRwJiuI8dW41TIvXu3/edit?usp=sharing&ouid=107616978612272013317&rtpof=true&sd=true
